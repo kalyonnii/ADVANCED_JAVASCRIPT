@@ -1,0 +1,30 @@
+#parent{
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(230,138,0);
+    font-weight: bold;
+    font-size: 24px;
+    cursor: pointer;
+}
+#child{
+    width: 250px;
+    height: 250px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(213, 36, 175);
+    font-weight: bold;
+    font-size: 24px;
+    cursor: pointer;
+}
+#grand-child{
+    width: 150px;
+    height: 100px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(39, 237, 42);
+    font-weight: bold;
+    font-size: 24px;
+    cursor: pointer;
+}
